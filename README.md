@@ -33,7 +33,7 @@ The dataset represents an E-commerce business and includes the following main en
 - Orders: order details, status, discounts, payment methods.
 - Customers: customer information and location.
 - Products: product details and categories.
-- 
+  
 ### Data Source
 Data was provided as CSV files.
 Files were imported into SQL Server.
@@ -46,9 +46,9 @@ Files were imported into SQL Server.
 ## Key Analysis & Insights
 
 - 81% of orders were successfully delivered, indicating strong operational performance.
-- 9% of orders remain pending, suggesting possible process delays.
+- On the other hand, the 10 % cancelled orders represent a noticeable loss in potential revenue.
+- About 9% of orders are pending, and that may indicate delays in processing or fulfillment.
 - Cash is the most used payment method (47.3%), followed by Visa (42.3%).
-- Instapay usage is low (10.4%), indicating a growth opportunity.
 • Most orders have no discount, while some reach up to 20%.
 
 ## Business Impact
