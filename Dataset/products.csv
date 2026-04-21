@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,20000
+2,iPhone,Electronics,30000
+3,Samsung Phone,Electronics,15000
+4,Headphones,Accessories,800
+5,Keyboard,Accessories,1000
+6,Mouse,Accessories,400
+7,Monitor,Electronics,6000
+8,Tablet,Electronics,10000
+9,Charger,Accessories,300
+10,Camera,Electronics,12000
+11,Smart Watch,Electronics,5000
+12,Speaker,Accessories,2500
+13,Printer,Electronics,3500
+14,Office Chair,Furniture,2500
+15,Desk Lamp,Furniture,900
